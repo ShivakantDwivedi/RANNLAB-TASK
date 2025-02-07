@@ -1,4 +1,9 @@
-node_module
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
 .env
+
+# Ignore key and certificate files
 *.key
 *.pem
